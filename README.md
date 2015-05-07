@@ -1,4 +1,4 @@
-# simple-slack
+# Simple Slack
 PHP class to help with Slack Incoming WebHooks
 
 ## Requirements
