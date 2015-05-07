@@ -9,7 +9,9 @@
  *
  */
 
-class SimpleSlack {
+namespace SimpleSlack;
+
+class Client {
 
 
 	/**
