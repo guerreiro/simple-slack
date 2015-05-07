@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gaguerreiro/simple-slack": "dev-master"
+    }
+}
