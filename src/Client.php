@@ -4,7 +4,7 @@
  *
  * PHP class to help with Slack Incoming WebHooks
  *
- * @version 1.0
+ * @version 1.1
  * @author Gabriel Guerreiro (gabrielguerreiro.com)
  *
  */
@@ -107,8 +107,4 @@ class Client {
 
 }
 
-/**
- * General Exceptions
- */
-class SimpleSlackException extends Exception {}
 ?>
