@@ -102,7 +102,7 @@ class Client {
 
 		$payload['text'] = $message;
 
-		return http_build_query(array('payload'=>json_encode($payload, JSON_UNESCAPED_UNICODE)));
+		return http_build_query(array('payload'=>json_encode($payload)));
 	}
 
 }
